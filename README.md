@@ -1,2 +1,2 @@
 # E-Commerce-Sales-Performance-Analysis
-This project analyzes e-commerce sales data to identify sales trends, top-performing products, customer behavior, and revenue insights. The goal is to help business stakeholders make data-driven decisions using clean data, analysis, and dashboards.
+This project analyzes e-commerce sales data to identify sales trends, top-performing products, customer behavior, and revenue insights. The goal is to help business stakeholders make data-driven decisions using clean data, analysis, and dashboards....
